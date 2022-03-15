@@ -1,8 +1,8 @@
--👋 Hi, I’m Muskan Issrani
--I'm a software Engineer at Bank of America.
-👀 I’m interested in learning new software technologies.
-🌱 I’m currently learning MERN stack development.
-📫 How to reach me https://www.linkedin.com/in/muskan-issrani-058793191/
+###👋 Hi, I’m Muskan Issrani
+- I'm a software Engineer at Bank of America.
+- 👀 I’m interested in learning new software technologies.
+- 🌱 I’m currently learning MERN stack development.
+- 📫 How to reach me https://www.linkedin.com/in/muskan-issrani-058793191/
 
 <!--
 **MuskanIss/MuskanIss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
