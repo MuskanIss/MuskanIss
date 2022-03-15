@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **MERN stack development**
 
 - 👀 I’m interested in learning new software technologies.
-- 
+
 - 👨‍💻 All of my projects are available at [https://portfolio-blush-omega.vercel.app/](https://portfolio-blush-omega.vercel.app/)
 
 - 📫 How to reach me **issranimuskaan@gmail.com**
